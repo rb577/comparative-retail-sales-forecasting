@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Model checkpoints
+*.ckpt
+checkpoints/
+
+# Saved models
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# TensorBoard
+lightning_logs/
+runs/
+
+# Cache
+.cache/
+
+# Temporary files
+tmp/
+temp/
+
+# Data (keep folder, ignore contents)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Large prediction outputs
+results/*.csv
+
+# OS files
+Desktop.ini

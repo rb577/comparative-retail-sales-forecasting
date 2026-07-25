@@ -239,19 +239,6 @@ pip install -r requirements.txt
 
 ---
 
-# Citation
-
-```bibtex
-@misc{comparative_retail_sales_forecasting,
-  title={Comparative Retail Sales Forecasting: A Comparative Study of Feature-Engineered XGBoost and Temporal Fusion Transformers},
-  author={Ram Babu},
-  year={2026},
-  note={GitHub repository}
-}
-```
-
----
-
 # License
 
 This project is released under the **MIT License**.

@@ -231,6 +231,12 @@ pip install -r requirements.txt
 
 ---
 
+# Limitations
+
+This study was conducted under limited computational resources. Consequently, extensive hyperparameter optimisation (e.g., Optuna), additional benchmark datasets, and larger cross-validation configurations were outside the scope of this project. The focus was therefore placed on a fair methodological comparison using consistent experimental settings.
+
+---
+
 # References
 
 1. Lim et al. (2021). *Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting.*
